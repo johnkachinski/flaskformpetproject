@@ -1,0 +1,1 @@
+PET project that was written with flask using pydantic, poetry, docker, alembic, postgres, sqlalchemy. Developed version is accessible via . 
